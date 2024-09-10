@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725982361 source:c:\users\buzdi'\desktop\lucruri c++\usaco\quiz master\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

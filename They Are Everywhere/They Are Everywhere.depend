@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1725980432 source:c:\users\buzdi'\desktop\lucruri c++\usaco\they are everywhere\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
