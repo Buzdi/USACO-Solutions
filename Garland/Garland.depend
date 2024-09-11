@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1726055094 source:c:\info\usaco\garland\main.cpp
+	<iostream>
+	<algorithm>
+
