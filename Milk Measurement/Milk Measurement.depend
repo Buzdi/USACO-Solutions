@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1726069488 source:c:\users\buzdi'\desktop\lucruri c++\usaco\milk measurement\main.cpp
+	<fstream>
+	<algorithm>
+	<vector>
+	<cassert>
+	<set>
+	<map>
+
