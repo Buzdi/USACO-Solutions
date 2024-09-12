@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1726156723 source:c:\users\buzdi'\desktop\lucruri c++\usaco\covered points count\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<cassert>
+	<set>
+	<map>
+
