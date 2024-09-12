@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1726154141 source:c:\users\buzdi'\desktop\lucruri c++\usaco\array destruction\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<queue>
+	<cassert>
+	<set>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1726151551 source:c:\users\buzdi'\desktop\lucruri c++\usaco\william and robot\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<queue>
+	<set>
+
