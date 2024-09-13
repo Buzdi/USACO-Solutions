@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1726166776 source:c:\users\buzdi'\desktop\lucruri c++\usaco\snow boots\main.cpp
+	<fstream>
+	<algorithm>
+	<vector>
+	<cassert>
+	<set>
+	<map>
+
