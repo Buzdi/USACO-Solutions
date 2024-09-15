@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1726396635 source:c:\users\buzdi'\desktop\lucruri c++\usaco\survival of the weakest (easy version)\main.cpp
+	<iostream>
+	<queue>
+	<algorithm>
+
