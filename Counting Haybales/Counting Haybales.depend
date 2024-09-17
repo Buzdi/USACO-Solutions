@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1726590017 source:c:\users\buzdi'\desktop\lucruri c++\usaco\counting haybales\main.cpp
+	<fstream>
+	<algorithm>
+	<vector>
+	<map>
+
