@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1726673692 source:c:\users\buzdi'\desktop\lucruri c++\usaco\bakery\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<map>
+	<queue>
+
