@@ -58,7 +58,7 @@ signed main()
     }
 
     cout << (Check() ? "YES" : "NO") << '\n';
-    for (int i = 1; i <= n; i++) {
+    for (int i = 1; i <= n - 1; i++) {
         int x;
         cin >> x;
         blocked[x] = 1;
