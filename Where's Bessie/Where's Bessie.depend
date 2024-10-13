@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1728763594 source:c:\users\buzdi'\desktop\lucruri c++\usaco\where's bessie\main.cpp
+	<fstream>
+	<algorithm>
+	<vector>
+	<queue>
+
