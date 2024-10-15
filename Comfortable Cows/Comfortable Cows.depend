@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729014202 source:c:\users\buzdi'\desktop\lucruri c++\usaco\comfortable cows\main.cpp
+	<iostream>
+	<queue>
+	<set>
+
