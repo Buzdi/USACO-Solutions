@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729106222 source:c:\users\buzdi'\desktop\lucruri c++\usaco\mootube\main.cpp
+	<fstream>
+	<algorithm>
+	<vector>
+
