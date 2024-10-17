@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729184165 source:c:\users\buzdi'\desktop\lucruri c++\usaco\cowntagion\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
