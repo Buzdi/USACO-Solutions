@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1732898341 source:c:\users\buzdi'\desktop\lucruri c++\usaco\replication\main.cpp
+	<iostream>
+	<cassert>
+	<cstring>
+	<queue>
+	<map>
+	<unordered_map>
+	<string>
+
