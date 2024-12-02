@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733162698 source:c:\users\buzdi'\desktop\lucruri c++\usaco\tractor\main.cpp
+	<fstream>
+	<vector>
+	<cassert>
+
