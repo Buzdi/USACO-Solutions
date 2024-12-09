@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733740285 source:d:\ok\probabil ceva segtree\main.cpp
+	<fstream>
+	<map>
+	<ext/pb_ds/assoc_container.hpp>
+
