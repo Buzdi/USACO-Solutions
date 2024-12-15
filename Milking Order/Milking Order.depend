@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734257753 source:c:\users\buzdi'\desktop\lucruri c++\usaco\milking order\main.cpp
+	<fstream>
+	<queue>
+	<vector>
+
