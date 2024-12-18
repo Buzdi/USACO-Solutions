@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1734526715 source:c:\users\elev\desktop\10b\superbull\main.cpp
+	<fstream>
+	<cassert>
+
