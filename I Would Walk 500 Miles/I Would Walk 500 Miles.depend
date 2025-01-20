@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1737375310 source:d:\ok\i would walk 500 miles\main.cpp
+	<fstream>
+	<cassert>
+	<tuple>
+
