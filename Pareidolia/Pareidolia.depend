@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1768232410 source:c:\users\buzdi'\desktop\lucruri c++\usaco\pareidolia\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
